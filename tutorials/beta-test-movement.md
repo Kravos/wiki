@@ -11,5 +11,5 @@ Teleport a player to you:
 `$summon [PlayerName]`
 
 Increase your movementspeed
-`$speed [Value(1-55)`
+`$speed [Value(1-55)]`
 
